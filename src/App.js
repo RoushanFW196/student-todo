@@ -1,10 +1,13 @@
-//import { Todo } from "./components/Todo";
-import "./App.css";
+import { Todo } from "./components/Todo";
+//import "./App.css";
 
 function App() {
   return (
     <div className="outterScreen">
-      <div className="App">{/* <Todo /> */}</div>
+      <div className="App">
+
+       <Todo /> 
+      </div>
     </div>
   );
 }

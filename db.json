@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "Task": "book",
+      "Title": "read",
+      "status": false,
+      "id": "bd320282-536f-49da-b529-6df4b39dbe4d"
+    },
+    {
+      "Task": "meditation",
+      "Title": "do",
+      "status": false,
+      "id": "a87dae51-9e80-413f-ab0d-3afc358a2e3b"
+    },
+    {
+      "Task": "typing",
+      "Title": "do ",
+      "status": false,
+      "id": "99f83bda-9e2c-4daa-b688-ebc4b1e14347"
+    },
+    {
+      "Task": "lecture",
+      "Title": "watch",
+      "status": false,
+      "id": "8b2b5921-67de-4efa-a058-82f3306fb695"
+    },
+    {
+      "Task": "bath",
+      "Title": "have",
+      "status": false,
+      "id": "a377056b-3942-4024-98db-8f66e6b966d1"
+    },
+    {
+      "Task": "scrum",
+      "Title": "join",
+      "status": false,
+      "id": "f7b38cf8-aacf-4930-96da-29e5d145d20b"
+    }
+  ]
+}
